@@ -1,11 +1,11 @@
 bootstrap-sass-framework
 ========================
 
-##Setup
+###Setup
 1. cd src/
 2. npm install
 
-##Tasks
+###Tasks
 * grunt watch
   * Watches for changes in scss and script directories and compiles on change
 * grunt build:styles:dev
